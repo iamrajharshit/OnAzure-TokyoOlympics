@@ -1,3 +1,4 @@
 # OnAzure-TokyoOlympics
-Performing ELT on Azure using Tokyo Olympic [Dataset](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo?resource=download).
+Repo to fetch data [Tokyo Olympic Dataset](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo?resource=download) into Data Factory, for performing ELT on Azure.
+
 
